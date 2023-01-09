@@ -8,7 +8,7 @@ This repository is used as a collection of all exercises solved during the cours
 
 1. Introduction to Python
 2. Version Control using Git
-3. Loops and COnditional Statements
+3. Loops and Conditional Statements
 4. Functions and modules
 5. Exploring and Processing Data with **Pandas**
 6. Dealing with errors and using assertions
